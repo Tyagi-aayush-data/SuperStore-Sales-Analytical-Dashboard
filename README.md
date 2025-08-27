@@ -119,10 +119,4 @@ Mark `DateTable` as the Date Table and create a one-to-many relationship to your
 ## Contact / Author
 If you need further help (custom measures, storytelling, or exporting summaries), open an issue in this repository or contact the author.
 
----
-
-## License
-This dashboard and README are provided for internal analysis and learning. Reuse and modification are allowed — attribute the author where possible.
-
----
 
